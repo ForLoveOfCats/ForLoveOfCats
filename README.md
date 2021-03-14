@@ -1,7 +1,5 @@
 # Greetings there! My name's Garrett, nice to meet you :)
 
-## Do not follow me expecting a return follow, this isn't Facebook
-
 I have been writting software for about 7 years and have no formal education. My
 developer journey started with a really crappy Python book. These days I am the
 most familiar with Rust, C#, and C but I have a fair amount of knowledge pertaining
